@@ -67,12 +67,3 @@ app.post('/success', (req, res) => {
 app.listen(process.env.PORT || 3000, function(){
 console.log("server is running")
 });
-
-
-
-
-// chimp api
-// 09f35bd9b39293602d2cb7efab249cd0-us1
-
-// list ID.
-// 74ba912796
